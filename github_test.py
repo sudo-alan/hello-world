@@ -1,0 +1,8 @@
+#Python Source Code
+
+#Use function to print
+
+def print_out(text):
+  print text
+  
+print_out("Hello World!")
